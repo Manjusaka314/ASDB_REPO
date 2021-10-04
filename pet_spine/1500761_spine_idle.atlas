@@ -1,0 +1,419 @@
+
+1500761_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 1165, 1810
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Story_serious
+  rotate: false
+  xy: 814, 1690
+  size: 136, 134
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+arm_l
+  rotate: true
+  xy: 272, 1705
+  size: 120, 354
+  orig: 143, 447
+  offset: 0, 0
+  index: -1
+arm_l_1
+  rotate: true
+  xy: 1743, 1763
+  size: 107, 285
+  orig: 107, 285
+  offset: 0, 0
+  index: -1
+arm_l_1_down
+  rotate: false
+  xy: 1302, 1779
+  size: 111, 91
+  orig: 111, 91
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 306, 1031
+  size: 450, 266
+  orig: 450, 272
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 753, 651
+  size: 314, 507
+  orig: 322, 507
+  offset: 0, 0
+  index: -1
+cloth_back_1
+  rotate: false
+  xy: 626, 1299
+  size: 291, 212
+  orig: 291, 212
+  offset: 0, 0
+  index: -1
+cloth_line
+  rotate: true
+  xy: 1771, 1614
+  size: 147, 212
+  orig: 147, 212
+  offset: 0, 0
+  index: -1
+cloth_line_back
+  rotate: true
+  xy: 978, 1821
+  size: 49, 65
+  orig: 50, 65
+  offset: 1, 0
+  index: -1
+cloth_line_up
+  rotate: false
+  xy: 398, 1828
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+cloth_r
+  rotate: false
+  xy: 1671, 1195
+  size: 333, 241
+  orig: 334, 241
+  offset: 1, 0
+  index: -1
+cloth_r_1
+  rotate: true
+  xy: 2, 1353
+  size: 192, 389
+  orig: 192, 395
+  offset: 0, 6
+  index: -1
+eye
+  rotate: false
+  xy: 63, 1845
+  size: 42, 25
+  orig: 44, 27
+  offset: 1, 1
+  index: -1
+eyeball
+  rotate: false
+  xy: 2, 1855
+  size: 16, 15
+  orig: 20, 22
+  offset: 2, 3
+  index: -1
+foot_l
+  rotate: false
+  xy: 919, 1243
+  size: 300, 218
+  orig: 302, 234
+  offset: 2, 16
+  index: -1
+foot_r
+  rotate: false
+  xy: 1033, 1463
+  size: 256, 180
+  orig: 260, 185
+  offset: 4, 0
+  index: -1
+glass
+  rotate: false
+  xy: 718, 1826
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+glass_ex
+  rotate: false
+  xy: 469, 1827
+  size: 66, 43
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: true
+  xy: 393, 1311
+  size: 211, 231
+  orig: 256, 256
+  offset: 25, 13
+  index: -1
+hair_1
+  rotate: true
+  xy: 786, 1826
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+hair_10
+  rotate: true
+  xy: 1045, 1821
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+hair_11
+  rotate: false
+  xy: 1636, 1767
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: false
+  xy: 1227, 1799
+  size: 73, 71
+  orig: 74, 112
+  offset: 0, 0
+  index: -1
+hair_13
+  rotate: true
+  xy: 161, 1844
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 107, 1844
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 858, 1826
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 930, 1826
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: true
+  xy: 537, 1827
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 210, 1840
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: false
+  xy: 1104, 1817
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 20, 1851
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 608, 1827
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 138, 1711
+  size: 132, 127
+  orig: 143, 128
+  offset: 11, 1
+  index: -1
+hat
+  rotate: true
+  xy: 234, 1547
+  size: 156, 177
+  orig: 156, 177
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 952, 1684
+  size: 136, 135
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 1412, 903
+  size: 618, 290
+  orig: 842, 290
+  offset: 224, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 628, 1513
+  size: 403, 169
+  orig: 403, 169
+  offset: 0, 0
+  index: -1
+leg_r_1
+  rotate: true
+  xy: 1221, 1215
+  size: 221, 448
+  orig: 221, 466
+  offset: 0, 18
+  index: -1
+leg_r_1_down
+  rotate: false
+  xy: 1517, 1776
+  size: 117, 94
+  orig: 118, 94
+  offset: 0, 0
+  index: -1
+leg_r_2
+  rotate: true
+  xy: 1090, 1645
+  size: 132, 224
+  orig: 132, 224
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 1731
+  size: 134, 111
+  orig: 134, 111
+  offset: 0, 0
+  index: -1
+tako_back_1
+  rotate: true
+  xy: 2, 1098
+  size: 253, 302
+  orig: 253, 302
+  offset: 0, 0
+  index: -1
+tako_back_2
+  rotate: true
+  xy: 1415, 1777
+  size: 93, 100
+  orig: 93, 100
+  offset: 0, 0
+  index: -1
+tako_back_3
+  rotate: true
+  xy: 1547, 1438
+  size: 174, 375
+  orig: 174, 375
+  offset: 0, 0
+  index: -1
+tako_back_4
+  rotate: true
+  xy: 2, 765
+  size: 264, 749
+  orig: 272, 749
+  offset: 0, 0
+  index: -1
+tako_back_5
+  rotate: false
+  xy: 1316, 1631
+  size: 237, 143
+  orig: 237, 143
+  offset: 0, 0
+  index: -1
+tako_back_6
+  rotate: true
+  xy: 1262, 521
+  size: 380, 413
+  orig: 380, 414
+  offset: 0, 0
+  index: -1
+tako_back_7
+  rotate: false
+  xy: 413, 1524
+  size: 213, 179
+  orig: 213, 181
+  offset: 0, 0
+  index: -1
+tako_back_8
+  rotate: true
+  xy: 758, 967
+  size: 246, 652
+  orig: 246, 659
+  offset: 0, 7
+  index: -1
+tako_back_9
+  rotate: false
+  xy: 628, 1695
+  size: 184, 129
+  orig: 184, 161
+  offset: 0, 32
+  index: -1
+tako_leg_1
+  rotate: false
+  xy: 658, 1827
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+tako_leg_2
+  rotate: false
+  xy: 2, 376
+  size: 405, 387
+  orig: 415, 387
+  offset: 0, 0
+  index: -1
+tako_leg_3
+  rotate: true
+  xy: 332, 1835
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
+tako_leg_down
+  rotate: true
+  xy: 1291, 1448
+  size: 181, 254
+  orig: 181, 255
+  offset: 0, 1
+  index: -1
+tako_leg_r
+  rotate: false
+  xy: 1555, 1615
+  size: 214, 146
+  orig: 214, 146
+  offset: 0, 0
+  index: -1
+tako_leg_r_down
+  rotate: true
+  xy: 2, 1558
+  size: 151, 230
+  orig: 156, 230
+  offset: 5, 0
+  index: -1
+watch
+  rotate: false
+  xy: 278, 1838
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 409, 2
+  size: 1026, 517
+  orig: 1067, 517
+  offset: 41, 0
+  index: -1

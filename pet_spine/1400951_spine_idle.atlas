@@ -1,0 +1,124 @@
+
+1400951_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1400951
+  rotate: true
+  xy: 1327, 1398
+  size: 343, 425
+  orig: 343, 425
+  offset: 0, 0
+  index: -1
+dust_1400951
+  rotate: false
+  xy: 615, 2
+  size: 1323, 858
+  orig: 1323, 858
+  offset: 0, 0
+  index: -1
+head_1400951
+  rotate: true
+  xy: 1457, 1743
+  size: 236, 328
+  orig: 236, 328
+  offset: 0, 0
+  index: -1
+l_hand_1400951
+  rotate: true
+  xy: 2, 1609
+  size: 240, 439
+  orig: 240, 439
+  offset: 0, 0
+  index: -1
+l_leg_1400951
+  rotate: true
+  xy: 796, 1429
+  size: 328, 529
+  orig: 328, 529
+  offset: 0, 0
+  index: -1
+package_1400951
+  rotate: true
+  xy: 2, 1879
+  size: 100, 170
+  orig: 106, 170
+  offset: 0, 0
+  index: -1
+r_hand_1400951
+  rotate: true
+  xy: 406, 1851
+  size: 128, 361
+  orig: 128, 361
+  offset: 0, 0
+  index: -1
+r_leg_1400951
+  rotate: true
+  xy: 2, 1115
+  size: 424, 775
+  orig: 424, 775
+  offset: 0, 0
+  index: -1
+shadow_1400951
+  rotate: false
+  xy: 779, 862
+  size: 773, 534
+  orig: 773, 534
+  offset: 0, 0
+  index: -1
+smoke_1400951
+  rotate: true
+  xy: 443, 1541
+  size: 303, 351
+  orig: 303, 351
+  offset: 0, 0
+  index: -1
+strap_1400951
+  rotate: true
+  xy: 174, 1877
+  size: 102, 230
+  orig: 102, 230
+  offset: 0, 0
+  index: -1
+tail_1400951
+  rotate: true
+  xy: 2, 313
+  size: 800, 611
+  orig: 1400, 713
+  offset: 0, 0
+  index: -1
+tank1_1400951
+  rotate: false
+  xy: 769, 1846
+  size: 202, 133
+  orig: 202, 133
+  offset: 0, 0
+  index: -1
+tank2_1400951
+  rotate: false
+  xy: 973, 1824
+  size: 166, 155
+  orig: 166, 155
+  offset: 0, 0
+  index: -1
+tank3_1400951
+  rotate: true
+  xy: 1141, 1759
+  size: 220, 314
+  orig: 346, 314
+  offset: 0, 0
+  index: -1
+
+1400951_spine_idle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scenario_1400951
+  rotate: false
+  xy: 2, 2
+  size: 1444, 1449
+  orig: 1444, 1449
+  offset: 0, 0
+  index: -1

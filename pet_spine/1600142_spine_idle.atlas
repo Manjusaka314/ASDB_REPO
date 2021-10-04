@@ -1,0 +1,438 @@
+
+1600142_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei-jing-1
+  rotate: true
+  xy: 1383, 251
+  size: 753, 657
+  orig: 753, 657
+  offset: 0, 0
+  index: -1
+bei-jing-2
+  rotate: false
+  xy: 2, 2
+  size: 1087, 728
+  orig: 1089, 728
+  offset: 1, 0
+  index: -1
+bei-jing-hou-fa-2
+  rotate: false
+  xy: 593, 1782
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+bei-jing-you-qian-liu-hai
+  rotate: true
+  xy: 887, 1757
+  size: 54, 107
+  orig: 55, 107
+  offset: 1, 0
+  index: -1
+bei-jing-you-qian-liu-hai-hou
+  rotate: true
+  xy: 308, 1791
+  size: 20, 24
+  orig: 20, 25
+  offset: 0, 1
+  index: -1
+bei-jing-you-shou
+  rotate: false
+  xy: 165, 1706
+  size: 106, 85
+  orig: 106, 85
+  offset: 0, 0
+  index: -1
+bei-jing-you-xiu-zi--qian
+  rotate: true
+  xy: 1847, 1525
+  size: 204, 197
+  orig: 207, 197
+  offset: 0, 0
+  index: -1
+bei-jing-you-xiu-zi-hou
+  rotate: true
+  xy: 1195, 1748
+  size: 63, 145
+  orig: 63, 145
+  offset: 0, 0
+  index: -1
+bei-jing-zuo-qian-liu-hai
+  rotate: false
+  xy: 1012, 1630
+  size: 129, 119
+  orig: 129, 119
+  offset: 0, 0
+  index: -1
+bei-jing-zuo-qian-liu-hai-hou
+  rotate: false
+  xy: 691, 1778
+  size: 35, 33
+  orig: 37, 33
+  offset: 1, 0
+  index: -1
+bei-jing-zuo-xiu-zi
+  rotate: false
+  xy: 1892, 1731
+  size: 136, 80
+  orig: 136, 80
+  offset: 0, 0
+  index: -1
+fa-si-1
+  rotate: true
+  xy: 392, 1785
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+fa-si-2
+  rotate: true
+  xy: 2, 1799
+  size: 12, 52
+  orig: 12, 52
+  offset: 0, 0
+  index: -1
+hou-fa
+  rotate: true
+  xy: 1801, 1734
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+hou-fa-1
+  rotate: false
+  xy: 1558, 1604
+  size: 287, 128
+  orig: 287, 128
+  offset: 0, 0
+  index: -1
+hou-fa-2
+  rotate: false
+  xy: 1512, 1736
+  size: 287, 75
+  orig: 287, 75
+  offset: 0, 0
+  index: -1
+hou-fa-3
+  rotate: true
+  xy: 279, 1792
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+hou-fa-4
+  rotate: false
+  xy: 2, 1716
+  size: 161, 80
+  orig: 161, 103
+  offset: 0, 19
+  index: -1
+hou-fa-5
+  rotate: false
+  xy: 219, 1545
+  size: 281, 134
+  orig: 281, 134
+  offset: 0, 0
+  index: -1
+hou-fa-6
+  rotate: true
+  xy: 492, 1784
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+mu-zhi
+  rotate: true
+  xy: 542, 1784
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+pi-feng-hou
+  rotate: false
+  xy: 2, 737
+  size: 403, 346
+  orig: 403, 423
+  offset: 0, 77
+  index: -1
+pi-feng-you-qian-1
+  rotate: true
+  xy: 907, 879
+  size: 314, 474
+  orig: 314, 474
+  offset: 0, 0
+  index: -1
+pi-feng-you-qian-2
+  rotate: true
+  xy: 815, 1471
+  size: 142, 410
+  orig: 142, 410
+  offset: 0, 0
+  index: -1
+pi-feng-you-zhong
+  rotate: true
+  xy: 1143, 1615
+  size: 119, 413
+  orig: 119, 413
+  offset: 0, 0
+  index: -1
+pi-feng-zuo-qian
+  rotate: true
+  xy: 407, 732
+  size: 351, 397
+  orig: 351, 397
+  offset: 0, 0
+  index: -1
+pi-feng-zuo-zhong
+  rotate: true
+  xy: 1572, 1006
+  size: 310, 378
+  orig: 310, 378
+  offset: 0, 0
+  index: -1
+shen-ti
+  rotate: true
+  xy: 1168, 1195
+  size: 229, 402
+  orig: 229, 402
+  offset: 0, 0
+  index: -1
+shi-zhi-hou
+  rotate: true
+  xy: 255, 1793
+  size: 18, 22
+  orig: 19, 23
+  offset: 1, 0
+  index: -1
+shi-zhi-qian
+  rotate: false
+  xy: 56, 1798
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 273, 1694
+  size: 89, 135
+  orig: 89, 135
+  offset: 0, 0
+  index: -1
+wei-zhi-hou
+  rotate: false
+  xy: 187, 1797
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+wei-zhi-qian
+  rotate: false
+  xy: 71, 1798
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+wu-ming-zhi-hou
+  rotate: false
+  xy: 209, 1795
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+wu-ming-zhi-qian
+  rotate: false
+  xy: 232, 1794
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+wu-qi
+  rotate: true
+  xy: 2, 1085
+  size: 154, 903
+  orig: 154, 903
+  offset: 0, 0
+  index: -1
+you-huang-guang-1
+  rotate: true
+  xy: 764, 1764
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+you-jiao
+  rotate: true
+  xy: 1227, 1426
+  size: 176, 451
+  orig: 176, 451
+  offset: 0, 0
+  index: -1
+you-jiao-qian-tu
+  rotate: false
+  xy: 552, 1663
+  size: 321, 98
+  orig: 321, 98
+  offset: 0, 0
+  index: -1
+you-liu-hai
+  rotate: true
+  xy: 502, 1519
+  size: 142, 311
+  orig: 142, 312
+  offset: 0, 1
+  index: -1
+you-liu-hai-1
+  rotate: true
+  xy: 359, 1789
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+you-shou
+  rotate: true
+  xy: 1342, 1739
+  size: 72, 168
+  orig: 72, 168
+  offset: 0, 0
+  index: -1
+you-xiong-qian-piao-dai
+  rotate: true
+  xy: 443, 1306
+  size: 211, 339
+  orig: 211, 339
+  offset: 0, 0
+  index: -1
+you-xiong-xun-zhang
+  rotate: true
+  xy: 826, 1763
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+you-xiu-zi
+  rotate: true
+  xy: 2, 1560
+  size: 144, 215
+  orig: 144, 215
+  offset: 0, 0
+  index: -1
+you-xiu-zi-hou
+  rotate: false
+  xy: 996, 1757
+  size: 117, 54
+  orig: 117, 54
+  offset: 0, 0
+  index: -1
+zhong-zhi-hou
+  rotate: true
+  xy: 334, 1791
+  size: 20, 23
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+zhong-zhi-qian
+  rotate: false
+  xy: 93, 1798
+  size: 20, 13
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+zuo-huang-guang-1
+  rotate: true
+  xy: 458, 1785
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+zuo-jiao
+  rotate: true
+  xy: 2, 1365
+  size: 178, 439
+  orig: 178, 439
+  offset: 0, 0
+  index: -1
+zuo-liu-hai
+  rotate: true
+  xy: 1680, 1318
+  size: 205, 299
+  orig: 205, 299
+  offset: 0, 0
+  index: -1
+zuo-liu-hai-1
+  rotate: false
+  xy: 628, 1779
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+zuo-liu-hai-2
+  rotate: true
+  xy: 115, 1798
+  size: 13, 70
+  orig: 13, 70
+  offset: 0, 0
+  index: -1
+zuo-liu-hai-3
+  rotate: false
+  xy: 728, 1777
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+zuo-shou
+  rotate: true
+  xy: 410, 1681
+  size: 101, 140
+  orig: 101, 140
+  offset: 0, 0
+  index: -1
+zuo-shou-bi
+  rotate: false
+  xy: 1115, 1751
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+zuo-xiong-qian-piao-dai
+  rotate: true
+  xy: 784, 1241
+  size: 228, 382
+  orig: 228, 382
+  offset: 0, 0
+  index: -1
+zuo-xiu-zi
+  rotate: false
+  xy: 875, 1637
+  size: 135, 118
+  orig: 135, 118
+  offset: 0, 0
+  index: -1
+
+1600142_spine_idle2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang-dian
+  rotate: false
+  xy: 2, 2
+  size: 1820, 977
+  orig: 1821, 979
+  offset: 0, 1
+  index: -1
+
+1600142_spine_idle3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shi-bei
+  rotate: false
+  xy: 2, 2
+  size: 1953, 1606
+  orig: 1954, 1608
+  offset: 1, 1
+  index: -1

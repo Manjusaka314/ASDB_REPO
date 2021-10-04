@@ -1,0 +1,304 @@
+
+1600602_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anaconda
+  rotate: false
+  xy: 1705, 1475
+  size: 305, 128
+  orig: 305, 128
+  offset: 0, 0
+  index: -1
+arm_1_ex
+  rotate: true
+  xy: 1022, 1521
+  size: 82, 113
+  orig: 107, 128
+  offset: 13, 8
+  index: -1
+arm_1_ex_2
+  rotate: false
+  xy: 819, 1529
+  size: 89, 74
+  orig: 101, 83
+  offset: 7, 6
+  index: -1
+arm_2
+  rotate: false
+  xy: 2, 706
+  size: 384, 416
+  orig: 384, 416
+  offset: 0, 0
+  index: -1
+arm_3_1
+  rotate: false
+  xy: 336, 1551
+  size: 100, 52
+  orig: 100, 53
+  offset: 0, 1
+  index: -1
+arm_3_1_1
+  rotate: false
+  xy: 1541, 1490
+  size: 162, 113
+  orig: 162, 125
+  offset: 0, 12
+  index: -1
+arm_3_1_2
+  rotate: true
+  xy: 2, 1439
+  size: 136, 233
+  orig: 141, 237
+  offset: 5, 0
+  index: -1
+arm_3_2
+  rotate: false
+  xy: 1137, 1520
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+background_1_ex
+  rotate: false
+  xy: 542, 1546
+  size: 110, 57
+  orig: 128, 77
+  offset: 9, 8
+  index: -1
+background_ex
+  rotate: false
+  xy: 237, 1405
+  size: 220, 144
+  orig: 246, 173
+  offset: 15, 13
+  index: -1
+background_ex_1
+  rotate: false
+  xy: 671, 1342
+  size: 406, 177
+  orig: 433, 217
+  offset: 24, 39
+  index: -1
+background_ex_3
+  rotate: false
+  xy: 1341, 1285
+  size: 371, 188
+  orig: 420, 210
+  offset: 26, 9
+  index: -1
+box
+  rotate: false
+  xy: 1425, 1494
+  size: 114, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1
+burito
+  rotate: false
+  xy: 244, 1573
+  size: 57, 30
+  orig: 61, 37
+  offset: 0, 2
+  index: -1
+chair_ex
+  rotate: false
+  xy: 2, 1124
+  size: 393, 279
+  orig: 470, 293
+  offset: 18, 13
+  index: -1
+chair_up
+  rotate: true
+  xy: 1079, 1307
+  size: 199, 260
+  orig: 199, 260
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 438, 1551
+  size: 52, 102
+  orig: 68, 119
+  offset: 8, 8
+  index: -1
+eye_up
+  rotate: false
+  xy: 303, 1573
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 2, 2
+  size: 2022, 515
+  orig: 2022, 571
+  offset: 0, 0
+  index: -1
+glow2
+  rotate: true
+  xy: 459, 1354
+  size: 189, 210
+  orig: 256, 256
+  offset: 33, 26
+  index: -1
+gunl
+  rotate: true
+  xy: 1714, 1250
+  size: 223, 280
+  orig: 223, 280
+  offset: 0, 0
+  index: -1
+gunl1
+  rotate: false
+  xy: 1321, 1508
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+gunr
+  rotate: false
+  xy: 388, 590
+  size: 513, 359
+  orig: 513, 359
+  offset: 0, 0
+  index: -1
+gunr1
+  rotate: false
+  xy: 654, 1545
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 910, 1528
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 397, 989
+  size: 454, 351
+  orig: 454, 352
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: true
+  xy: 903, 519
+  size: 430, 521
+  orig: 430, 521
+  offset: 0, 0
+  index: -1
+r_hand_ex
+  rotate: true
+  xy: 739, 1534
+  size: 69, 78
+  orig: 80, 83
+  offset: 6, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 853, 951
+  size: 740, 332
+  orig: 836, 332
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 1595, 870
+  size: 378, 398
+  orig: 379, 399
+  offset: 0, 0
+  index: -1
+weapon_1_ex
+  rotate: false
+  xy: 2, 1577
+  size: 240, 26
+  orig: 263, 48
+  offset: 10, 14
+  index: -1
+weapon_down
+  rotate: false
+  xy: 1229, 1515
+  size: 90, 88
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+
+1600602_spine_idle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_3
+  rotate: true
+  xy: 2, 661
+  size: 624, 734
+  orig: 624, 734
+  offset: 0, 0
+  index: -1
+background_1
+  rotate: false
+  xy: 2, 1287
+  size: 1641, 528
+  orig: 1644, 534
+  offset: 1, 6
+  index: -1
+body
+  rotate: true
+  xy: 738, 639
+  size: 646, 886
+  orig: 936, 886
+  offset: 290, 0
+  index: -1
+desk
+  rotate: false
+  xy: 2, 2
+  size: 1721, 635
+  orig: 1721, 635
+  offset: 0, 0
+  index: -1
+
+1600602_spine_idle3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: false
+  xy: 725, 863
+  size: 763, 754
+  orig: 786, 758
+  offset: 0, 0
+  index: -1
+arm_4
+  rotate: true
+  xy: 2, 929
+  size: 688, 721
+  orig: 688, 721
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 2
+  size: 1633, 859
+  orig: 1729, 866
+  offset: 96, 0
+  index: -1
+
+1600602_spine_idle4.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chair
+  rotate: false
+  xy: 2, 2
+  size: 922, 1187
+  orig: 922, 1187
+  offset: 0, 0
+  index: -1

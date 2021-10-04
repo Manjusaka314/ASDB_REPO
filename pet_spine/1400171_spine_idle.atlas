@@ -1,0 +1,312 @@
+
+1400171_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: false
+  xy: 1640, 1489
+  size: 219, 217
+  orig: 222, 217
+  offset: 3, 0
+  index: -1
+Body_1
+  rotate: true
+  xy: 1075, 1734
+  size: 137, 288
+  orig: 139, 288
+  offset: 0, 0
+  index: -1
+Cloth_up
+  rotate: true
+  xy: 215, 1812
+  size: 59, 122
+  orig: 66, 123
+  offset: 7, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 339, 1806
+  size: 129, 65
+  orig: 139, 66
+  offset: 1, 0
+  index: -1
+Hair_l
+  rotate: true
+  xy: 470, 1804
+  size: 67, 134
+  orig: 67, 140
+  offset: 0, 0
+  index: -1
+Hair_l_1
+  rotate: false
+  xy: 714, 1794
+  size: 81, 77
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+Hair_m
+  rotate: true
+  xy: 606, 1797
+  size: 74, 106
+  orig: 84, 108
+  offset: 0, 2
+  index: -1
+Hair_r
+  rotate: true
+  xy: 797, 1792
+  size: 79, 142
+  orig: 79, 145
+  offset: 0, 3
+  index: -1
+Hair_r_1
+  rotate: true
+  xy: 76, 1815
+  size: 56, 137
+  orig: 80, 140
+  offset: 24, 2
+  index: -1
+Hand_light
+  rotate: false
+  xy: 647, 1299
+  size: 296, 271
+  orig: 298, 271
+  offset: 1, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 300, 1348
+  size: 345, 244
+  orig: 345, 245
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1365, 1732
+  size: 139, 142
+  orig: 139, 142
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: true
+  xy: 941, 1773
+  size: 98, 132
+  orig: 98, 132
+  offset: 0, 0
+  index: -1
+L_arm_1
+  rotate: false
+  xy: 2, 1625
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 1311, 1514
+  size: 216, 327
+  orig: 226, 327
+  offset: 6, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 537, 739
+  size: 433, 410
+  orig: 433, 415
+  offset: 0, 0
+  index: -1
+L_hand_1
+  rotate: false
+  xy: 2, 1395
+  size: 296, 220
+  orig: 433, 415
+  offset: 137, 5
+  index: -1
+L_leg
+  rotate: true
+  xy: 972, 684
+  size: 426, 532
+  orig: 427, 532
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 1011, 1520
+  size: 212, 298
+  orig: 212, 304
+  offset: 0, 6
+  index: -1
+Line_2
+  rotate: false
+  xy: 204, 1617
+  size: 283, 185
+  orig: 283, 192
+  offset: 0, 7
+  index: -1
+R_arm
+  rotate: false
+  xy: 729, 1572
+  size: 280, 199
+  orig: 281, 226
+  offset: 0, 27
+  index: -1
+R_ear
+  rotate: false
+  xy: 489, 1594
+  size: 238, 198
+  orig: 238, 226
+  offset: 0, 28
+  index: -1
+R_leg
+  rotate: true
+  xy: 1372, 1112
+  size: 375, 453
+  orig: 375, 454
+  offset: 0, 0
+  index: -1
+Story_angry
+  rotate: true
+  xy: 1509, 1732
+  size: 139, 142
+  orig: 139, 142
+  offset: 0, 0
+  index: -1
+Story_happy
+  rotate: true
+  xy: 1653, 1732
+  size: 139, 142
+  orig: 139, 142
+  offset: 0, 0
+  index: -1
+Tell
+  rotate: false
+  xy: 1797, 1708
+  size: 175, 163
+  orig: 175, 163
+  offset: 0, 0
+  index: -1
+Weapon_ex_10
+  rotate: false
+  xy: 1117, 2
+  size: 579, 529
+  orig: 579, 529
+  offset: 0, 0
+  index: -1
+Weapon_ex_2
+  rotate: true
+  xy: 1506, 533
+  size: 577, 532
+  orig: 577, 532
+  offset: 0, 0
+  index: -1
+Weapon_ex_3
+  rotate: true
+  xy: 2, 362
+  size: 578, 532
+  orig: 578, 532
+  offset: 0, 0
+  index: -1
+Weapon_ex_9
+  rotate: false
+  xy: 536, 153
+  size: 579, 529
+  orig: 579, 529
+  offset: 0, 0
+  index: -1
+Weapon_light
+  rotate: false
+  xy: 945, 1151
+  size: 425, 361
+  orig: 427, 364
+  offset: 1, 2
+  index: -1
+Weapon_up
+  rotate: false
+  xy: 2, 942
+  size: 533, 404
+  orig: 533, 405
+  offset: 0, 0
+  index: -1
+Weapon_up_light
+  rotate: true
+  xy: 2, 1832
+  size: 39, 72
+  orig: 39, 72
+  offset: 0, 0
+  index: -1
+
+1400171_spine_idle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon_ex_1
+  rotate: true
+  xy: 2, 2
+  size: 579, 532
+  orig: 579, 532
+  offset: 0, 0
+  index: -1
+Weapon_ex_11
+  rotate: false
+  xy: 1070, 10
+  size: 579, 532
+  orig: 579, 532
+  offset: 0, 0
+  index: -1
+Weapon_ex_5
+  rotate: true
+  xy: 536, 2
+  size: 579, 532
+  orig: 579, 532
+  offset: 0, 0
+  index: -1
+Weapon_ex_6
+  rotate: false
+  xy: 1070, 1078
+  size: 579, 532
+  orig: 579, 532
+  offset: 0, 0
+  index: -1
+Weapon_ex_7
+  rotate: false
+  xy: 1070, 544
+  size: 579, 532
+  orig: 579, 532
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 2, 583
+  size: 922, 1027
+  orig: 922, 1063
+  offset: 0, 21
+  index: -1
+
+1400171_spine_idle3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon_ex_12
+  rotate: false
+  xy: 2, 2
+  size: 579, 532
+  orig: 579, 532
+  offset: 0, 0
+  index: -1
+Weapon_ex_4
+  rotate: false
+  xy: 583, 2
+  size: 578, 532
+  orig: 578, 532
+  offset: 0, 0
+  index: -1
+Weapon_ex_8
+  rotate: false
+  xy: 1163, 4
+  size: 579, 530
+  orig: 579, 530
+  offset: 0, 0
+  index: -1

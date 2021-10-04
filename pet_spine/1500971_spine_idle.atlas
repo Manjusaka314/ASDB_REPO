@@ -1,0 +1,244 @@
+
+1500971_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blackwing1_1500971
+  rotate: true
+  xy: 1670, 515
+  size: 51, 122
+  orig: 51, 122
+  offset: 0, 0
+  index: -1
+body_1500971
+  rotate: false
+  xy: 1810, 908
+  size: 226, 301
+  orig: 226, 301
+  offset: 0, 0
+  index: -1
+coat1_1500971
+  rotate: true
+  xy: 2, 314
+  size: 482, 568
+  orig: 482, 568
+  offset: 0, 0
+  index: -1
+collar1_1500971
+  rotate: false
+  xy: 1948, 345
+  size: 91, 120
+  orig: 91, 120
+  offset: 0, 0
+  index: -1
+collar2_1500971
+  rotate: false
+  xy: 1931, 1228
+  size: 110, 215
+  orig: 110, 215
+  offset: 0, 0
+  index: -1
+collar3_1500971
+  rotate: true
+  xy: 1931, 1884
+  size: 137, 115
+  orig: 137, 115
+  offset: 0, 0
+  index: -1
+crystal_1_1500971
+  rotate: false
+  xy: 1303, 568
+  size: 505, 641
+  orig: 839, 846
+  offset: 0, 205
+  index: -1
+eardrop1_1500971
+  rotate: true
+  xy: 1964, 1219
+  size: 7, 32
+  orig: 7, 32
+  offset: 0, 0
+  index: -1
+effect_1_1500971
+  rotate: true
+  xy: 1197, 153
+  size: 413, 471
+  orig: 413, 471
+  offset: 0, 0
+  index: -1
+effect_2_1500971
+  rotate: false
+  xy: 1796, 269
+  size: 150, 236
+  orig: 150, 236
+  offset: 0, 0
+  index: -1
+effect_3_1500971
+  rotate: false
+  xy: 2007, 865
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+effect_4_1500971
+  rotate: true
+  xy: 572, 13
+  size: 304, 436
+  orig: 304, 436
+  offset: 0, 0
+  index: -1
+effect_5_1500971
+  rotate: false
+  xy: 2, 798
+  size: 1299, 1223
+  orig: 1299, 1223
+  offset: 0, 0
+  index: -1
+hair1_1500971
+  rotate: true
+  xy: 1090, 6
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+hair2_1500971
+  rotate: false
+  xy: 1974, 551
+  size: 69, 118
+  orig: 69, 120
+  offset: 0, 2
+  index: -1
+hair3_1500971
+  rotate: true
+  xy: 1010, 6
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+hair4_1500971
+  rotate: false
+  xy: 1948, 220
+  size: 74, 123
+  orig: 74, 123
+  offset: 0, 0
+  index: -1
+hair5_1500971
+  rotate: false
+  xy: 1974, 467
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+hair6_1500971
+  rotate: true
+  xy: 1796, 207
+  size: 60, 136
+  orig: 60, 136
+  offset: 0, 0
+  index: -1
+hair7_1500971
+  rotate: true
+  xy: 1197, 583
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+head1_1500971
+  rotate: false
+  xy: 1197, 630
+  size: 104, 166
+  orig: 104, 166
+  offset: 0, 0
+  index: -1
+hip_1500971
+  rotate: false
+  xy: 1197, 19
+  size: 149, 132
+  orig: 149, 132
+  offset: 0, 0
+  index: -1
+l_arm_1500971
+  rotate: true
+  xy: 1348, 20
+  size: 131, 238
+  orig: 131, 238
+  offset: 0, 0
+  index: -1
+l_bigleg_1500971
+  rotate: true
+  xy: 1670, 203
+  size: 302, 124
+  orig: 302, 124
+  offset: 0, 0
+  index: -1
+l_smallleg_1500971
+  rotate: true
+  xy: 1670, 48
+  size: 153, 234
+  orig: 170, 242
+  offset: 0, 8
+  index: -1
+r_bigarm_1500971
+  rotate: false
+  xy: 1810, 507
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+r_leg_1500971
+  rotate: false
+  xy: 572, 319
+  size: 441, 477
+  orig: 441, 477
+  offset: 0, 0
+  index: -1
+r_smallarm_1500971
+  rotate: false
+  xy: 1906, 2
+  size: 133, 203
+  orig: 133, 203
+  offset: 0, 0
+  index: -1
+ribbon1_1500971
+  rotate: true
+  xy: 1810, 671
+  size: 235, 195
+  orig: 235, 195
+  offset: 0, 0
+  index: -1
+sleeve1_1500971
+  rotate: true
+  xy: 1015, 81
+  size: 715, 180
+  orig: 715, 184
+  offset: 0, 2
+  index: -1
+sleeve2_1500971
+  rotate: true
+  xy: 1931, 1445
+  size: 437, 113
+  orig: 437, 113
+  offset: 0, 0
+  index: -1
+sofa_1500971
+  rotate: false
+  xy: 1303, 1211
+  size: 626, 810
+  orig: 626, 810
+  offset: 0, 0
+  index: -1
+yanpi1_1500971
+  rotate: true
+  xy: 2007, 833
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+yanpi2_1500971
+  rotate: false
+  xy: 1931, 1212
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1

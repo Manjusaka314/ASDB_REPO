@@ -1,0 +1,111 @@
+
+1300221_spine_idle.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm
+  rotate: false
+  xy: 447, 18
+  size: 161, 80
+  orig: 161, 80
+  offset: 0, 0
+  index: -1
+Arm_1
+  rotate: false
+  xy: 370, 2
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 696, 9
+  size: 107, 115
+  orig: 107, 115
+  offset: 0, 0
+  index: -1
+Cloth_1
+  rotate: false
+  xy: 140, 2
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+Cloth_2
+  rotate: false
+  xy: 198, 10
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+Cloth_3
+  rotate: false
+  xy: 805, 22
+  size: 180, 102
+  orig: 180, 103
+  offset: 0, 0
+  index: -1
+Cloth_down
+  rotate: true
+  xy: 881, 149
+  size: 357, 176
+  orig: 361, 176
+  offset: 0, 0
+  index: -1
+Finger
+  rotate: true
+  xy: 276, 27
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 370, 100
+  size: 406, 324
+  orig: 406, 324
+  offset: 0, 0
+  index: -1
+Leg
+  rotate: false
+  xy: 1059, 173
+  size: 221, 333
+  orig: 221, 345
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 696, 126
+  size: 380, 183
+  orig: 380, 198
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: true
+  xy: 1495, 204
+  size: 302, 285
+  orig: 302, 285
+  offset: 0, 0
+  index: -1
+Weapon_0
+  rotate: true
+  xy: 2, 2
+  size: 60, 136
+  orig: 60, 137
+  offset: 0, 1
+  index: -1
+Weapon_2
+  rotate: true
+  xy: 2, 64
+  size: 442, 366
+  orig: 442, 366
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 1282, 196
+  size: 310, 211
+  orig: 310, 211
+  offset: 0, 0
+  index: -1

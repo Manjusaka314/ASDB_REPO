@@ -1,0 +1,362 @@
+
+1400831_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX3
+  rotate: false
+  xy: 2, 1016
+  size: 789, 425
+  orig: 789, 427
+  offset: 0, 1
+  index: -1
+FX5
+  rotate: true
+  xy: 375, 1514
+  size: 243, 370
+  orig: 244, 372
+  offset: 1, 1
+  index: -1
+biyan
+  rotate: false
+  xy: 2, 2016
+  size: 123, 28
+  orig: 123, 28
+  offset: 0, 0
+  index: -1
+chuizi
+  rotate: true
+  xy: 697, 2
+  size: 779, 1143
+  orig: 779, 1143
+  offset: 0, 0
+  index: -1
+chushou1
+  rotate: false
+  xy: 1443, 1966
+  size: 141, 78
+  orig: 141, 78
+  offset: 0, 0
+  index: -1
+chushou2
+  rotate: true
+  xy: 1429, 1651
+  size: 182, 226
+  orig: 182, 226
+  offset: 0, 0
+  index: -1
+chushou3
+  rotate: true
+  xy: 1805, 1831
+  size: 126, 217
+  orig: 351, 467
+  offset: 32, 0
+  index: -1
+dabiL
+  rotate: true
+  xy: 1180, 1704
+  size: 135, 247
+  orig: 135, 247
+  offset: 0, 0
+  index: -1
+dabiR
+  rotate: true
+  xy: 1354, 1841
+  size: 121, 275
+  orig: 121, 275
+  offset: 0, 0
+  index: -1
+datuiL
+  rotate: true
+  xy: 370, 1764
+  size: 133, 256
+  orig: 133, 256
+  offset: 0, 0
+  index: -1
+datuiL2
+  rotate: false
+  xy: 1232, 1974
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+datuiR
+  rotate: true
+  xy: 1800, 1962
+  size: 82, 130
+  orig: 82, 130
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 963, 1722
+  size: 157, 215
+  orig: 157, 215
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 728, 1984
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+jiaoL
+  rotate: true
+  xy: 489, 1899
+  size: 87, 171
+  orig: 87, 171
+  offset: 0, 0
+  index: -1
+jiaoR
+  rotate: true
+  xy: 1057, 1976
+  size: 68, 173
+  orig: 68, 173
+  offset: 0, 0
+  index: -1
+pixiang
+  rotate: true
+  xy: 1529, 1253
+  size: 357, 444
+  orig: 357, 449
+  offset: 0, 0
+  index: -1
+qunzi1
+  rotate: true
+  xy: 2, 1539
+  size: 223, 371
+  orig: 223, 389
+  offset: 0, 18
+  index: -1
+qunzi2
+  rotate: true
+  xy: 662, 1893
+  size: 88, 208
+  orig: 89, 210
+  offset: 0, 2
+  index: -1
+qunzi3
+  rotate: false
+  xy: 2, 328
+  size: 693, 686
+  orig: 838, 686
+  offset: 0, 0
+  index: -1
+qunzi4
+  rotate: false
+  xy: 1631, 1835
+  size: 172, 125
+  orig: 172, 125
+  offset: 0, 0
+  index: -1
+qunzi5
+  rotate: false
+  xy: 793, 783
+  size: 679, 511
+  orig: 679, 511
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 747, 1443
+  size: 286, 277
+  orig: 286, 284
+  offset: 0, 0
+  index: -1
+shouL
+  rotate: true
+  xy: 1327, 1969
+  size: 75, 114
+  orig: 75, 114
+  offset: 0, 0
+  index: -1
+shour
+  rotate: true
+  xy: 2, 1930
+  size: 84, 122
+  orig: 84, 122
+  offset: 0, 0
+  index: -1
+shouzhiL
+  rotate: true
+  xy: 127, 2012
+  size: 32, 81
+  orig: 32, 81
+  offset: 0, 0
+  index: -1
+shouzhiR
+  rotate: true
+  xy: 618, 1988
+  size: 56, 108
+  orig: 61, 108
+  offset: 5, 0
+  index: -1
+sidai1
+  rotate: true
+  xy: 336, 2000
+  size: 44, 89
+  orig: 69, 89
+  offset: 25, 0
+  index: -1
+sidai2
+  rotate: true
+  xy: 387, 1904
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 243, 1913
+  size: 85, 142
+  orig: 96, 151
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 210, 2003
+  size: 41, 124
+  orig: 41, 124
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 831, 1983
+  size: 61, 134
+  orig: 61, 134
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 1586, 1964
+  size: 80, 121
+  orig: 172, 138
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 872, 1888
+  size: 91, 119
+  orig: 91, 119
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: false
+  xy: 1657, 1612
+  size: 226, 217
+  orig: 226, 220
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: true
+  xy: 1709, 1963
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+toufa8
+  rotate: false
+  xy: 967, 1981
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+toushi1
+  rotate: false
+  xy: 1932, 1959
+  size: 106, 85
+  orig: 142, 127
+  offset: 36, 42
+  index: -1
+toushi2
+  rotate: false
+  xy: 126, 1917
+  size: 115, 84
+  orig: 115, 84
+  offset: 0, 0
+  index: -1
+toushi3
+  rotate: true
+  xy: 427, 1993
+  size: 51, 55
+  orig: 55, 58
+  offset: 4, 3
+  index: -1
+toushi4
+  rotate: false
+  xy: 484, 1993
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+weiqun
+  rotate: true
+  xy: 1035, 1296
+  size: 353, 492
+  orig: 353, 492
+  offset: 0, 0
+  index: -1
+xiaobiL
+  rotate: false
+  xy: 2, 1786
+  size: 178, 129
+  orig: 178, 129
+  offset: 0, 0
+  index: -1
+xiaobiL2
+  rotate: false
+  xy: 547, 1992
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+xiaobiR
+  rotate: true
+  xy: 182, 1780
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+xiaotuiL
+  rotate: true
+  xy: 628, 1759
+  size: 127, 333
+  orig: 127, 333
+  offset: 0, 0
+  index: -1
+xiaotuiR
+  rotate: true
+  xy: 993, 1881
+  size: 93, 187
+  orig: 93, 187
+  offset: 0, 0
+  index: -1
+zhangyuchushou
+  rotate: true
+  xy: 1182, 1849
+  size: 118, 170
+  orig: 118, 170
+  offset: 0, 0
+  index: -1
+
+1400831_spine_idle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX1
+  rotate: false
+  xy: 2, 851
+  size: 1268, 1164
+  orig: 1268, 1164
+  offset: 0, 0
+  index: -1
+FX6
+  rotate: true
+  xy: 2, 2
+  size: 847, 975
+  orig: 847, 975
+  offset: 0, 0
+  index: -1

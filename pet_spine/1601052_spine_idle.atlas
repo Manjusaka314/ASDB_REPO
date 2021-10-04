@@ -1,0 +1,926 @@
+
+1601052_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhahou1111_1601052
+  rotate: true
+  xy: 1402, 1949
+  size: 75, 78
+  orig: 75, 78
+  offset: 0, 0
+  index: -1
+baozhahou11_1601052
+  rotate: true
+  xy: 350, 1870
+  size: 110, 131
+  orig: 120, 131
+  offset: 10, 0
+  index: -1
+baozhalizi1_1601052
+  rotate: false
+  xy: 2, 1016
+  size: 271, 255
+  orig: 271, 255
+  offset: 0, 0
+  index: -1
+baozhatx1_1601052
+  rotate: true
+  xy: 1582, 213
+  size: 338, 359
+  orig: 338, 359
+  offset: 0, 0
+  index: -1
+chongdianxian1_1601052
+  rotate: true
+  xy: 1727, 1173
+  size: 252, 254
+  orig: 252, 254
+  offset: 0, 0
+  index: -1
+chongdianxian2_1601052
+  rotate: true
+  xy: 437, 1690
+  size: 163, 448
+  orig: 187, 448
+  offset: 6, 0
+  index: -1
+chongdianxian3_1601052
+  rotate: true
+  xy: 1168, 1958
+  size: 66, 154
+  orig: 66, 154
+  offset: 0, 0
+  index: -1
+chongdianxian4_1601052
+  rotate: false
+  xy: 275, 960
+  size: 481, 271
+  orig: 481, 271
+  offset: 0, 0
+  index: -1
+chongdianxian5_1601052
+  rotate: true
+  xy: 963, 1833
+  size: 124, 193
+  orig: 124, 193
+  offset: 0, 0
+  index: -1
+fadianqi10_1601052
+  rotate: false
+  xy: 162, 1715
+  size: 273, 153
+  orig: 273, 153
+  offset: 0, 0
+  index: -1
+fadianqi11_1601052
+  rotate: false
+  xy: 2, 672
+  size: 507, 286
+  orig: 507, 286
+  offset: 0, 0
+  index: -1
+fadianqi13_1601052
+  rotate: false
+  xy: 887, 1664
+  size: 248, 167
+  orig: 248, 167
+  offset: 0, 0
+  index: -1
+fadianqi15_1601052
+  rotate: true
+  xy: 1300, 1814
+  size: 133, 162
+  orig: 133, 162
+  offset: 0, 0
+  index: -1
+fadianqi16_1601052
+  rotate: false
+  xy: 203, 1875
+  size: 145, 109
+  orig: 145, 109
+  offset: 0, 0
+  index: -1
+fadianqi2_1601052
+  rotate: false
+  xy: 817, 610
+  size: 334, 305
+  orig: 334, 305
+  offset: 0, 0
+  index: -1
+fadianqi6_1601052
+  rotate: true
+  xy: 1002, 1427
+  size: 182, 862
+  orig: 182, 862
+  offset: 0, 0
+  index: -1
+fadianqi7_1601052
+  rotate: false
+  xy: 483, 1865
+  size: 150, 112
+  orig: 150, 112
+  offset: 0, 0
+  index: -1
+fadianqi8_1601052
+  rotate: false
+  xy: 635, 1859
+  size: 190, 113
+  orig: 190, 158
+  offset: 0, 23
+  index: -1
+fadianqishandian1_1601052
+  rotate: true
+  xy: 493, 294
+  size: 314, 620
+  orig: 314, 620
+  offset: 0, 0
+  index: -1
+lianjieguan2_1601052
+  rotate: false
+  xy: 280, 1500
+  size: 241, 188
+  orig: 241, 188
+  offset: 0, 0
+  index: -1
+qunzihou_1601052
+  rotate: false
+  xy: 1335, 899
+  size: 322, 287
+  orig: 322, 287
+  offset: 0, 0
+  index: -1
+ren_jiaokao1_1601052
+  rotate: true
+  xy: 2, 1912
+  size: 93, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+ren_jiaoyou_1601052
+  rotate: true
+  xy: 727, 1977
+  size: 47, 75
+  orig: 52, 75
+  offset: 5, 0
+  index: -1
+ren_jixiejianbang1_1601052
+  rotate: false
+  xy: 535, 1981
+  size: 64, 43
+  orig: 64, 47
+  offset: 0, 4
+  index: -1
+ren_jixieshoubi1_1601052
+  rotate: false
+  xy: 256, 1273
+  size: 246, 225
+  orig: 246, 225
+  offset: 0, 0
+  index: -1
+ren_jixieshoubi2_1601052
+  rotate: false
+  xy: 1594, 1939
+  size: 99, 85
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+ren_jixieshouzhi1_1601052
+  rotate: false
+  xy: 1830, 1932
+  size: 139, 92
+  orig: 139, 92
+  offset: 0, 0
+  index: -1
+ren_jixieshouzhi2_1601052
+  rotate: false
+  xy: 933, 1973
+  size: 144, 51
+  orig: 144, 51
+  offset: 0, 0
+  index: -1
+ren_jixieshouzhi3_1601052
+  rotate: true
+  xy: 1482, 1940
+  size: 84, 110
+  orig: 84, 110
+  offset: 0, 0
+  index: -1
+ren_jixieshouzhi4_1601052
+  rotate: true
+  xy: 1324, 1957
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+ren_shoubizuo_1601052
+  rotate: true
+  xy: 1796, 1794
+  size: 136, 241
+  orig: 136, 241
+  offset: 0, 0
+  index: -1
+ren_tou_1601052
+  rotate: true
+  xy: 1079, 1959
+  size: 65, 87
+  orig: 65, 87
+  offset: 0, 0
+  index: -1
+ren_toufada1_1601052
+  rotate: true
+  xy: 804, 1974
+  size: 50, 127
+  orig: 50, 127
+  offset: 0, 0
+  index: -1
+ren_toufada2_1601052
+  rotate: true
+  xy: 1695, 1938
+  size: 86, 133
+  orig: 87, 133
+  offset: 1, 0
+  index: -1
+ren_toufada5_1601052
+  rotate: true
+  xy: 1582, 553
+  size: 327, 437
+  orig: 349, 437
+  offset: 22, 0
+  index: -1
+ren_toufada7_1601052
+  rotate: false
+  xy: 728, 1461
+  size: 272, 201
+  orig: 272, 201
+  offset: 0, 0
+  index: -1
+ren_toufaxiao10_1601052
+  rotate: true
+  xy: 187, 1997
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+ren_toufaxiao11_1601052
+  rotate: true
+  xy: 827, 1855
+  size: 116, 134
+  orig: 116, 134
+  offset: 0, 0
+  index: -1
+ren_toufaxiao12_1601052
+  rotate: false
+  xy: 99, 1895
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+ren_toufaxiao13_1601052
+  rotate: false
+  xy: 387, 1983
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+ren_toufaxiao14_1601052
+  rotate: false
+  xy: 1158, 1830
+  size: 140, 126
+  orig: 141, 130
+  offset: 0, 0
+  index: -1
+ren_toufaxiao1_1601052
+  rotate: true
+  xy: 247, 1996
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+ren_toufaxiao2_1601052
+  rotate: true
+  xy: 601, 1979
+  size: 45, 124
+  orig: 45, 124
+  offset: 0, 0
+  index: -1
+ren_toufaxiao3_1601052
+  rotate: true
+  xy: 446, 1982
+  size: 42, 87
+  orig: 42, 87
+  offset: 0, 0
+  index: -1
+ren_toufaxiao4_1601052
+  rotate: true
+  xy: 2, 1747
+  size: 146, 158
+  orig: 146, 160
+  offset: 0, 2
+  index: -1
+ren_toufaxiao5_1601052
+  rotate: true
+  xy: 1055, 917
+  size: 277, 278
+  orig: 277, 278
+  offset: 0, 0
+  index: -1
+ren_toufaxiao6_1601052
+  rotate: true
+  xy: 94, 2007
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+ren_toufaxiao7_1601052
+  rotate: true
+  xy: 42, 2008
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+ren_toufaxiao8_1601052
+  rotate: true
+  xy: 125, 2003
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+ren_toufaxiao9_1601052
+  rotate: true
+  xy: 308, 1986
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+ren_tuiyou_1601052
+  rotate: true
+  xy: 1776, 1611
+  size: 181, 210
+  orig: 185, 210
+  offset: 4, 0
+  index: -1
+ren_tuizuo_1601052
+  rotate: true
+  xy: 1137, 1645
+  size: 166, 431
+  orig: 166, 431
+  offset: 0, 0
+  index: -1
+texiao_baozha1_1601052
+  rotate: true
+  xy: 1570, 1634
+  size: 177, 204
+  orig: 177, 204
+  offset: 0, 0
+  index: -1
+texiao_baozhayan1_1601052
+  rotate: false
+  xy: 2, 1311
+  size: 252, 218
+  orig: 256, 227
+  offset: 2, 1
+  index: -1
+texiao_shoubuguangxian1_1601052
+  rotate: true
+  xy: 1425, 1188
+  size: 237, 300
+  orig: 237, 300
+  offset: 0, 0
+  index: -1
+texiao_xingguang1_1601052
+  rotate: true
+  xy: 511, 622
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+texiao_xingguang2_1601052
+  rotate: true
+  xy: 1659, 882
+  size: 289, 299
+  orig: 289, 299
+  offset: 0, 0
+  index: -1
+tx_shandian_01_23
+  rotate: true
+  xy: 772, 1196
+  size: 229, 651
+  orig: 1164, 834
+  offset: 445, 36
+  index: -1
+tx_shandian_05_2
+  rotate: false
+  xy: 1153, 588
+  size: 427, 309
+  orig: 1164, 834
+  offset: 340, 336
+  index: -1
+tx_shandian_05_4
+  rotate: false
+  xy: 2, 344
+  size: 489, 326
+  orig: 1164, 834
+  offset: 344, 324
+  index: -1
+tx_shandian_06_2
+  rotate: false
+  xy: 1464, 1813
+  size: 330, 123
+  orig: 1164, 834
+  offset: 424, 410
+  index: -1
+tx_shandian_06_3
+  rotate: false
+  xy: 523, 1493
+  size: 203, 195
+  orig: 1164, 834
+  offset: 478, 351
+  index: -1
+tx_shandian_06_4
+  rotate: true
+  xy: 758, 918
+  size: 276, 295
+  orig: 1164, 834
+  offset: 399, 263
+  index: -1
+tx_shandian_06_5
+  rotate: false
+  xy: 504, 1233
+  size: 266, 226
+  orig: 1164, 834
+  offset: 379, 296
+  index: -1
+tx_shandian_06_6
+  rotate: false
+  xy: 1115, 259
+  size: 465, 327
+  orig: 1164, 834
+  offset: 354, 216
+  index: -1
+tx_shandian_06_7
+  rotate: false
+  xy: 2, 1531
+  size: 276, 182
+  orig: 1164, 834
+  offset: 564, 373
+  index: -1
+tx_shandian_06_8
+  rotate: false
+  xy: 2, 2
+  size: 472, 340
+  orig: 1164, 834
+  offset: 352, 224
+  index: -1
+yankuang_1601052
+  rotate: false
+  xy: 2, 2016
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+yanpi_1601052
+  rotate: false
+  xy: 22, 2010
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+
+1601052_spine_idle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhatxguang1_1601052
+  rotate: false
+  xy: 861, 909
+  size: 388, 376
+  orig: 396, 383
+  offset: 4, 0
+  index: -1
+dalizi2_1601052
+  rotate: true
+  xy: 633, 11
+  size: 468, 488
+  orig: 468, 488
+  offset: 0, 0
+  index: -1
+fadianqi9_1601052
+  rotate: true
+  xy: 1187, 444
+  size: 410, 813
+  orig: 410, 813
+  offset: 0, 0
+  index: -1
+ren_shenti_1601052
+  rotate: true
+  xy: 2, 955
+  size: 355, 427
+  orig: 364, 440
+  offset: 0, 13
+  index: -1
+ren_toufada3_1601052
+  rotate: false
+  xy: 691, 481
+  size: 494, 426
+  orig: 494, 426
+  offset: 0, 0
+  index: -1
+ren_toufada4_1601052
+  rotate: false
+  xy: 2, 533
+  size: 687, 387
+  orig: 687, 387
+  offset: 0, 0
+  index: -1
+ren_toufada6_1601052
+  rotate: true
+  xy: 1431, 1232
+  size: 343, 564
+  orig: 343, 564
+  offset: 0, 0
+  index: -1
+ren_toufada8_1601052
+  rotate: true
+  xy: 722, 1287
+  size: 330, 707
+  orig: 330, 707
+  offset: 0, 0
+  index: -1
+tx_shandian_01_24
+  rotate: true
+  xy: 2, 1621
+  size: 298, 759
+  orig: 1164, 834
+  offset: 435, 49
+  index: -1
+tx_shandian_01_25
+  rotate: true
+  xy: 2, 1312
+  size: 307, 718
+  orig: 1164, 834
+  offset: 431, 93
+  index: -1
+tx_shandian_03_2
+  rotate: false
+  xy: 1251, 856
+  size: 781, 374
+  orig: 1164, 834
+  offset: 307, 230
+  index: -1
+tx_shandian_04_2
+  rotate: false
+  xy: 2, 105
+  size: 629, 426
+  orig: 1164, 834
+  offset: 364, 273
+  index: -1
+tx_shandian_04_3
+  rotate: false
+  xy: 1123, 2
+  size: 661, 440
+  orig: 1164, 834
+  offset: 323, 260
+  index: -1
+tx_shandian_05_1
+  rotate: false
+  xy: 1452, 1577
+  size: 490, 342
+  orig: 1164, 834
+  offset: 331, 311
+  index: -1
+tx_shandian_05_3
+  rotate: false
+  xy: 763, 1619
+  size: 687, 300
+  orig: 1164, 834
+  offset: 195, 289
+  index: -1
+tx_shandian_06_1
+  rotate: true
+  xy: 431, 922
+  size: 363, 428
+  orig: 1164, 834
+  offset: 397, 334
+  index: -1
+
+1601052_spine_idle3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhahou111_1601052
+  rotate: false
+  xy: 1551, 968
+  size: 476, 512
+  orig: 476, 512
+  offset: 0, 0
+  index: -1
+fadianqi12_1601052
+  rotate: false
+  xy: 568, 33
+  size: 516, 507
+  orig: 516, 507
+  offset: 0, 0
+  index: -1
+fadianqi3_1601052
+  rotate: false
+  xy: 2, 77
+  size: 564, 478
+  orig: 564, 478
+  offset: 0, 0
+  index: -1
+ren_toufada10_1601052
+  rotate: true
+  xy: 2, 557
+  size: 467, 578
+  orig: 467, 578
+  offset: 0, 0
+  index: -1
+ren_toufada9_1601052
+  rotate: true
+  xy: 2, 1486
+  size: 448, 865
+  orig: 456, 898
+  offset: 8, 0
+  index: -1
+tx_shandian_02_1
+  rotate: true
+  xy: 582, 542
+  size: 473, 641
+  orig: 1164, 834
+  offset: 313, 84
+  index: -1
+tx_shandian_02_2
+  rotate: true
+  xy: 2, 1026
+  size: 458, 661
+  orig: 1164, 834
+  offset: 246, 138
+  index: -1
+tx_shandian_02_3
+  rotate: true
+  xy: 1225, 491
+  size: 475, 698
+  orig: 1164, 834
+  offset: 288, 118
+  index: -1
+tx_shandian_02_4
+  rotate: true
+  xy: 1086, 2
+  size: 487, 709
+  orig: 1164, 834
+  offset: 263, 116
+  index: -1
+tx_shandian_03_1
+  rotate: false
+  xy: 869, 1482
+  size: 861, 452
+  orig: 1164, 834
+  offset: 234, 215
+  index: -1
+tx_shandian_03_3
+  rotate: false
+  xy: 665, 1017
+  size: 884, 463
+  orig: 1164, 834
+  offset: 180, 192
+  index: -1
+
+1601052_spine_idle4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fadianqi1_1601052
+  rotate: false
+  xy: 2, 143
+  size: 694, 557
+  orig: 694, 557
+  offset: 0, 0
+  index: -1
+fadianqi4_1601052
+  rotate: false
+  xy: 1443, 1117
+  size: 559, 650
+  orig: 559, 650
+  offset: 0, 0
+  index: -1
+fadianqi5_1601052
+  rotate: true
+  xy: 893, 1241
+  size: 526, 548
+  orig: 526, 548
+  offset: 0, 0
+  index: -1
+fadianqiguangyun2_1601052
+  rotate: true
+  xy: 698, 2
+  size: 556, 812
+  orig: 585, 846
+  offset: 3, 33
+  index: -1
+texiao_houguangyun1_1601052
+  rotate: false
+  xy: 2, 1246
+  size: 889, 521
+  orig: 898, 541
+  offset: 2, 16
+  index: -1
+texiaoguangyun9_1601052
+  rotate: false
+  xy: 2, 702
+  size: 759, 542
+  orig: 769, 543
+  offset: 3, 1
+  index: -1
+tx_shandian_04_1
+  rotate: false
+  xy: 763, 560
+  size: 867, 555
+  orig: 1164, 834
+  offset: 8, 99
+  index: -1
+
+1601052_spine_idle5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lianjieguan1_1601052
+  rotate: false
+  xy: 1005, 707
+  size: 871, 697
+  orig: 871, 697
+  offset: 0, 0
+  index: -1
+tx_shandian_01_1
+  rotate: false
+  xy: 2, 1411
+  size: 775, 606
+  orig: 1164, 834
+  offset: 216, 40
+  index: -1
+tx_shandian_01_4
+  rotate: false
+  xy: 2, 69
+  size: 912, 699
+  orig: 1164, 834
+  offset: 93, 53
+  index: -1
+tx_shandian_01_5
+  rotate: false
+  xy: 916, 2
+  size: 979, 703
+  orig: 1164, 834
+  offset: 28, 45
+  index: -1
+tx_shandian_01_6
+  rotate: false
+  xy: 779, 1406
+  size: 890, 611
+  orig: 1164, 834
+  offset: 73, 100
+  index: -1
+tx_shandian_04_5
+  rotate: false
+  xy: 2, 770
+  size: 1001, 634
+  orig: 1164, 834
+  offset: 12, 78
+  index: -1
+
+1601052_spine_idle6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dalizi1_1601052
+  rotate: true
+  xy: 2, 16
+  size: 726, 790
+  orig: 726, 790
+  offset: 0, 0
+  index: -1
+fadianqiyuanqiu1_1601052
+  rotate: false
+  xy: 794, 2
+  size: 729, 729
+  orig: 729, 729
+  offset: 0, 0
+  index: -1
+tx_shandian_01_2
+  rotate: false
+  xy: 976, 733
+  size: 826, 716
+  orig: 1164, 834
+  offset: 167, 23
+  index: -1
+tx_shandian_04_4
+  rotate: false
+  xy: 2, 744
+  size: 972, 705
+  orig: 1164, 834
+  offset: 24, 74
+  index: -1
+
+1601052_spine_idle7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_guang1_1601052
+  rotate: false
+  xy: 2, 2
+  size: 2012, 1396
+  orig: 2022, 1400
+  offset: 3, 4
+  index: -1
+
+1601052_spine_idle8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozhahou1_1601052
+  rotate: false
+  xy: 2, 19
+  size: 967, 908
+  orig: 967, 908
+  offset: 0, 0
+  index: -1
+fadianqi14_1601052
+  rotate: true
+  xy: 971, 2
+  size: 925, 1052
+  orig: 925, 1052
+  offset: 0, 0
+  index: -1
+texiao_shoubuguangyun1_1601052
+  rotate: false
+  xy: 881, 929
+  size: 792, 753
+  orig: 792, 753
+  offset: 0, 0
+  index: -1
+tx_shandian_01_3
+  rotate: false
+  xy: 2, 936
+  size: 877, 746
+  orig: 1164, 834
+  offset: 134, 48
+  index: -1
+
+1601052_spine_idle9.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houguangtexiao2_1601052
+  rotate: false
+  xy: 2, 2
+  size: 1700, 936
+  orig: 1752, 960
+  offset: 11, 0
+  index: -1
+
+1601052_spine_idle10.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_shandian1_1601052
+  rotate: false
+  xy: 2, 2
+  size: 1837, 1172
+  orig: 1837, 1172
+  offset: 0, 0
+  index: -1
+
+1601052_spine_idle11.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_shandian2_1601052
+  rotate: false
+  xy: 2, 2
+  size: 1826, 1196
+  orig: 1826, 1196
+  offset: 0, 0
+  index: -1
+
+1601052_spine_idle12.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao_houguangyun2_1601052
+  rotate: false
+  xy: 2, 2
+  size: 1541, 1254
+  orig: 1541, 1254
+  offset: 0, 0
+  index: -1

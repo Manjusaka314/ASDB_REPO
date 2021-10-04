@@ -1,0 +1,649 @@
+
+1600021_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt
+  rotate: false
+  xy: 692, 1369
+  size: 307, 195
+  orig: 307, 195
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 651, 829
+  size: 304, 487
+  orig: 304, 539
+  offset: 0, 52
+  index: -1
+Dorgon_ex
+  rotate: false
+  xy: 2, 529
+  size: 370, 343
+  orig: 401, 349
+  offset: 31, 6
+  index: -1
+Dorgon_mouse
+  rotate: true
+  xy: 1232, 1075
+  size: 229, 415
+  orig: 229, 415
+  offset: 0, 0
+  index: -1
+Dorgon_mouse_in
+  rotate: true
+  xy: 2, 1651
+  size: 131, 226
+  orig: 131, 229
+  offset: 0, 3
+  index: -1
+Dorgon_r_line
+  rotate: false
+  xy: 569, 2
+  size: 1311, 379
+  orig: 1311, 379
+  offset: 0, 0
+  index: -1
+Ex_Weapon
+  rotate: true
+  xy: 321, 874
+  size: 282, 328
+  orig: 284, 329
+  offset: 1, 0
+  index: -1
+Ex_Weapon2
+  rotate: false
+  xy: 2, 935
+  size: 317, 270
+  orig: 318, 271
+  offset: 0, 0
+  index: -1
+Ex_Weapon3
+  rotate: true
+  xy: 2, 1876
+  size: 20, 107
+  orig: 20, 107
+  offset: 0, 0
+  index: -1
+Ex_Weapon_light
+  rotate: false
+  xy: 1283, 383
+  size: 401, 392
+  orig: 572, 559
+  offset: 90, 88
+  index: -1
+Eye_down
+  rotate: false
+  xy: 95, 1784
+  size: 138, 76
+  orig: 164, 94
+  offset: 21, 1
+  index: -1
+Eye_up
+  rotate: false
+  xy: 235, 1778
+  size: 158, 76
+  orig: 159, 79
+  offset: 0, 3
+  index: -1
+Hair
+  rotate: false
+  xy: 521, 1615
+  size: 183, 134
+  orig: 185, 135
+  offset: 1, 1
+  index: -1
+Hair1
+  rotate: true
+  xy: 944, 1834
+  size: 62, 173
+  orig: 62, 173
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: true
+  xy: 253, 1860
+  size: 36, 90
+  orig: 37, 92
+  offset: 0, 0
+  index: -1
+Hair3
+  rotate: true
+  xy: 1679, 1505
+  size: 184, 280
+  orig: 184, 280
+  offset: 0, 0
+  index: -1
+Hair4
+  rotate: true
+  xy: 860, 1566
+  size: 161, 208
+  orig: 161, 216
+  offset: 0, 0
+  index: -1
+Hair5
+  rotate: true
+  xy: 732, 1741
+  size: 93, 173
+  orig: 100, 173
+  offset: 7, 0
+  index: -1
+Hair_down
+  rotate: true
+  xy: 1649, 1053
+  size: 250, 263
+  orig: 250, 263
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 1244
+  size: 199, 244
+  orig: 199, 244
+  offset: 0, 0
+  index: -1
+L_Ball
+  rotate: true
+  xy: 111, 1870
+  size: 26, 45
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 374, 479
+  size: 491, 348
+  orig: 730, 718
+  offset: 0, 370
+  index: -1
+L_belt
+  rotate: false
+  xy: 907, 1729
+  size: 111, 103
+  orig: 116, 103
+  offset: 5, 0
+  index: -1
+L_belt_down
+  rotate: true
+  xy: 1554, 1828
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: false
+  xy: 1157, 1723
+  size: 119, 107
+  orig: 122, 110
+  offset: 1, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 1278, 1716
+  size: 111, 128
+  orig: 111, 128
+  offset: 0, 0
+  index: -1
+Oppai
+  rotate: false
+  xy: 425, 1417
+  size: 265, 196
+  orig: 265, 196
+  offset: 0, 0
+  index: -1
+R_Ball
+  rotate: true
+  xy: 204, 1862
+  size: 34, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+R_belt
+  rotate: false
+  xy: 230, 1637
+  size: 289, 131
+  orig: 289, 131
+  offset: 0, 0
+  index: -1
+R_belt_down
+  rotate: false
+  xy: 1070, 1553
+  size: 179, 168
+  orig: 183, 168
+  offset: 0, 0
+  index: -1
+R_cloth_up
+  rotate: false
+  xy: 867, 409
+  size: 414, 366
+  orig: 419, 371
+  offset: 0, 0
+  index: -1
+R_cloth_updown
+  rotate: true
+  xy: 248, 1207
+  size: 208, 304
+  orig: 208, 304
+  offset: 0, 0
+  index: -1
+R_finger
+  rotate: true
+  xy: 2, 1795
+  size: 79, 91
+  orig: 79, 91
+  offset: 0, 0
+  index: -1
+R_hand
+  rotate: false
+  xy: 1545, 1702
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+R_line
+  rotate: false
+  xy: 1140, 777
+  size: 891, 274
+  orig: 891, 274
+  offset: 0, 0
+  index: -1
+Sakura1
+  rotate: false
+  xy: 395, 1772
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+Sakura10
+  rotate: false
+  xy: 206, 1445
+  size: 217, 190
+  orig: 217, 190
+  offset: 0, 0
+  index: -1
+Sakura11
+  rotate: false
+  xy: 1408, 1704
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+Sakura12
+  rotate: false
+  xy: 2, 1465
+  size: 202, 184
+  orig: 202, 184
+  offset: 0, 0
+  index: -1
+Sakura13
+  rotate: true
+  xy: 1882, 1822
+  size: 74, 108
+  orig: 74, 108
+  offset: 0, 0
+  index: -1
+Sakura15
+  rotate: true
+  xy: 1671, 1695
+  size: 127, 129
+  orig: 127, 129
+  offset: 0, 0
+  index: -1
+Sakura16
+  rotate: false
+  xy: 1251, 1534
+  size: 210, 168
+  orig: 210, 168
+  offset: 0, 0
+  index: -1
+Sakura17
+  rotate: false
+  xy: 630, 1751
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+Sakura18
+  rotate: false
+  xy: 1638, 1828
+  size: 129, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+Sakura19
+  rotate: true
+  xy: 480, 1770
+  size: 82, 148
+  orig: 82, 148
+  offset: 0, 0
+  index: -1
+Sakura2
+  rotate: true
+  xy: 1213, 1832
+  size: 64, 120
+  orig: 64, 120
+  offset: 0, 0
+  index: -1
+Sakura21
+  rotate: false
+  xy: 653, 1843
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+Sakura22
+  rotate: true
+  xy: 554, 1854
+  size: 42, 97
+  orig: 42, 97
+  offset: 0, 0
+  index: -1
+Sakura23
+  rotate: true
+  xy: 854, 1836
+  size: 60, 88
+  orig: 60, 88
+  offset: 0, 0
+  index: -1
+Sakura24
+  rotate: true
+  xy: 158, 1864
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+Sakura25
+  rotate: false
+  xy: 1453, 1829
+  size: 99, 67
+  orig: 99, 67
+  offset: 0, 0
+  index: -1
+Sakura26
+  rotate: true
+  xy: 1246, 1328
+  size: 204, 212
+  orig: 204, 212
+  offset: 0, 0
+  index: -1
+Sakura27
+  rotate: true
+  xy: 1463, 1521
+  size: 172, 214
+  orig: 172, 214
+  offset: 0, 0
+  index: -1
+Sakura28
+  rotate: true
+  xy: 1769, 1824
+  size: 72, 111
+  orig: 72, 112
+  offset: 0, 0
+  index: -1
+Sakura29
+  rotate: true
+  xy: 554, 1158
+  size: 209, 242
+  orig: 212, 242
+  offset: 2, 0
+  index: -1
+Sakura4
+  rotate: false
+  xy: 1802, 1691
+  size: 166, 129
+  orig: 166, 129
+  offset: 0, 0
+  index: -1
+Sakura5
+  rotate: false
+  xy: 1020, 1729
+  size: 135, 103
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+Sakura6
+  rotate: false
+  xy: 706, 1589
+  size: 152, 150
+  orig: 152, 150
+  offset: 0, 0
+  index: -1
+Sakura7
+  rotate: false
+  xy: 1335, 1829
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+Sakura8
+  rotate: false
+  xy: 747, 1839
+  size: 105, 57
+  orig: 105, 57
+  offset: 0, 0
+  index: -1
+anger
+  rotate: true
+  xy: 1001, 1354
+  size: 197, 243
+  orig: 211, 255
+  offset: 6, 6
+  index: -1
+disgust
+  rotate: true
+  xy: 1460, 1306
+  size: 197, 244
+  orig: 211, 255
+  offset: 6, 6
+  index: -1
+surprise
+  rotate: true
+  xy: 1706, 1305
+  size: 198, 244
+  orig: 211, 255
+  offset: 6, 6
+  index: -1
+拉链
+  rotate: false
+  xy: 1119, 1834
+  size: 92, 62
+  orig: 93, 66
+  offset: 0, 4
+  index: -1
+拉链坠
+  rotate: false
+  xy: 345, 1856
+  size: 207, 40
+  orig: 207, 40
+  offset: 0, 0
+  index: -1
+袖子
+  rotate: false
+  xy: 798, 1135
+  size: 432, 217
+  orig: 432, 218
+  offset: 0, 1
+  index: -1
+龙手2
+  rotate: true
+  xy: 2, 19
+  size: 458, 565
+  orig: 458, 565
+  offset: 0, 0
+  index: -1
+
+1600021_spine_idle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dorgon_hair
+  rotate: false
+  xy: 2, 2
+  size: 1082, 715
+  orig: 1082, 715
+  offset: 0, 0
+  index: -1
+Dorgon_l_line
+  rotate: false
+  xy: 2, 1304
+  size: 622, 520
+  orig: 622, 520
+  offset: 0, 0
+  index: -1
+Ex_Weapon1
+  rotate: true
+  xy: 1335, 1271
+  size: 553, 613
+  orig: 1030, 1668
+  offset: 457, 613
+  index: -1
+Ex_Weapon_light1
+  rotate: false
+  xy: 2, 744
+  size: 572, 558
+  orig: 572, 559
+  offset: 0, 0
+  index: -1
+L_line
+  rotate: false
+  xy: 576, 719
+  size: 684, 559
+  orig: 684, 559
+  offset: 0, 0
+  index: -1
+R_line_1
+  rotate: false
+  xy: 626, 1280
+  size: 707, 544
+  orig: 707, 544
+  offset: 0, 0
+  index: -1
+龙手1
+  rotate: true
+  xy: 1262, 709
+  size: 560, 658
+  orig: 560, 658
+  offset: 0, 0
+  index: -1
+
+1600021_spine_idle3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sword
+  rotate: false
+  xy: 2, 2
+  size: 1893, 756
+  orig: 1898, 760
+  offset: 5, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 760
+  size: 1437, 739
+  orig: 1437, 739
+  offset: 0, 0
+  index: -1
+
+1600021_spine_idle4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dorgon_body
+  rotate: false
+  xy: 2, 2
+  size: 1944, 1471
+  orig: 1944, 1471
+  offset: 0, 0
+  index: -1
+
+1600021_spine_idle5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dorgon_body1
+  rotate: false
+  xy: 2, 868
+  size: 2021, 830
+  orig: 2021, 830
+  offset: 0, 0
+  index: -1
+图层 16 副本
+  rotate: false
+  xy: 2, 2
+  size: 1485, 864
+  orig: 1566, 914
+  offset: 19, 36
+  index: -1
+
+1600021_spine_idle6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Leg
+  rotate: true
+  xy: 2, 916
+  size: 908, 1331
+  orig: 908, 1331
+  offset: 0, 0
+  index: -1
+R_cloth_down
+  rotate: true
+  xy: 2, 2
+  size: 912, 1207
+  orig: 912, 1207
+  offset: 0, 0
+  index: -1
+
+1600021_spine_idle7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dorgon_head
+  rotate: true
+  xy: 995, 375
+  size: 1208, 990
+  orig: 1208, 990
+  offset: 0, 0
+  index: -1
+R_cloth
+  rotate: false
+  xy: 2, 2
+  size: 991, 1581
+  orig: 991, 1581
+  offset: 0, 0
+  index: -1
+
+1600021_spine_idle8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_cloth
+  rotate: false
+  xy: 2, 2
+  size: 1071, 1376
+  orig: 1113, 1376
+  offset: 42, 0
+  index: -1
+
+1600021_spine_idle9.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1 副本
+  rotate: false
+  xy: 2, 2
+  size: 1198, 1131
+  orig: 1199, 1133
+  offset: 1, 1
+  index: -1

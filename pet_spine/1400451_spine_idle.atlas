@@ -1,0 +1,355 @@
+
+1400451_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Story_angry
+  rotate: true
+  xy: 136, 1580
+  size: 133, 160
+  orig: 133, 160
+  offset: 0, 0
+  index: -1
+Story_pray
+  rotate: true
+  xy: 298, 1563
+  size: 133, 160
+  orig: 133, 160
+  offset: 0, 0
+  index: -1
+Story_see
+  rotate: true
+  xy: 460, 1557
+  size: 133, 160
+  orig: 133, 160
+  offset: 0, 0
+  index: -1
+Story_sorry
+  rotate: true
+  xy: 622, 1541
+  size: 133, 160
+  orig: 133, 160
+  offset: 0, 0
+  index: -1
+bengdai
+  rotate: false
+  xy: 134, 1718
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 50, 1723
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 574, 1117
+  size: 234, 360
+  orig: 241, 360
+  offset: 7, 0
+  index: -1
+dabiR
+  rotate: false
+  xy: 969, 1656
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+dishangxue
+  rotate: false
+  xy: 936, 1036
+  size: 549, 292
+  orig: 549, 292
+  offset: 0, 0
+  index: -1
+erding1
+  rotate: true
+  xy: 280, 1715
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+erding2
+  rotate: true
+  xy: 196, 1716
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: true
+  xy: 86, 1721
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 784, 1534
+  size: 133, 160
+  orig: 133, 160
+  offset: 0, 0
+  index: -1
+fangkuai1_1
+  rotate: true
+  xy: 2, 1593
+  size: 123, 132
+  orig: 139, 132
+  offset: 16, 0
+  index: -1
+fangkuai1_2
+  rotate: false
+  xy: 830, 588
+  size: 564, 446
+  orig: 599, 446
+  offset: 0, 0
+  index: -1
+fangkuai2_1
+  rotate: true
+  xy: 2, 1197
+  size: 201, 570
+  orig: 201, 570
+  offset: 0, 0
+  index: -1
+fangkuai2_2
+  rotate: true
+  xy: 1487, 920
+  size: 336, 425
+  orig: 336, 425
+  offset: 0, 0
+  index: -1
+fangkuai2_3
+  rotate: true
+  xy: 240, 1716
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+fangkuai3
+  rotate: false
+  xy: 2, 223
+  size: 618, 495
+  orig: 618, 495
+  offset: 0, 0
+  index: -1
+fangkuai5_1
+  rotate: true
+  xy: 326, 1700
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+fangkuai5_2
+  rotate: false
+  xy: 585, 1692
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+fangkuai5_3
+  rotate: true
+  xy: 2, 1423
+  size: 155, 167
+  orig: 155, 167
+  offset: 0, 0
+  index: -1
+fangkuai5_4
+  rotate: false
+  xy: 528, 1694
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+fangkuai5_5
+  rotate: false
+  xy: 883, 1669
+  size: 84, 76
+  orig: 84, 78
+  offset: 0, 2
+  index: -1
+fangkuai6_1
+  rotate: true
+  xy: 1686, 1258
+  size: 213, 293
+  orig: 213, 293
+  offset: 0, 0
+  index: -1
+fangkuai6_2
+  rotate: false
+  xy: 1558, 1630
+  size: 243, 115
+  orig: 243, 115
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: true
+  xy: 457, 1698
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: true
+  xy: 642, 1685
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+jeijingshou
+  rotate: false
+  xy: 1385, 1330
+  size: 299, 183
+  orig: 408, 342
+  offset: 0, 124
+  index: -1
+jjsxiuzi
+  rotate: true
+  xy: 1149, 1341
+  size: 172, 234
+  orig: 172, 234
+  offset: 0, 0
+  index: -1
+lingzihou
+  rotate: false
+  xy: 1803, 1623
+  size: 214, 122
+  orig: 214, 122
+  offset: 0, 0
+  index: -1
+liuxue
+  rotate: true
+  xy: 946, 1515
+  size: 113, 840
+  orig: 113, 840
+  offset: 0, 0
+  index: -1
+qianfa
+  rotate: false
+  xy: 1068, 1649
+  size: 149, 96
+  orig: 149, 96
+  offset: 0, 0
+  index: -1
+sahngyaixiabaiqian
+  rotate: true
+  xy: 429, 720
+  size: 395, 399
+  orig: 395, 399
+  offset: 0, 0
+  index: -1
+shangyixiabaihou
+  rotate: false
+  xy: 2, 809
+  size: 425, 386
+  orig: 425, 386
+  offset: 0, 0
+  index: -1
+shouR
+  rotate: false
+  xy: 747, 1353
+  size: 400, 160
+  orig: 400, 160
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: true
+  xy: 2, 1728
+  size: 17, 46
+  orig: 17, 46
+  offset: 0, 0
+  index: -1
+shouzhi1
+  rotate: false
+  xy: 717, 1682
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+tiui
+  rotate: true
+  xy: 622, 2
+  size: 446, 946
+  orig: 1204, 1319
+  offset: 445, 0
+  index: -1
+waitao2
+  rotate: true
+  xy: 1219, 1648
+  size: 97, 337
+  orig: 97, 337
+  offset: 0, 0
+  index: -1
+waitao3
+  rotate: true
+  xy: 381, 1700
+  size: 45, 74
+  orig: 45, 74
+  offset: 0, 0
+  index: -1
+waitaohoubai
+  rotate: true
+  xy: 1396, 450
+  size: 468, 506
+  orig: 491, 506
+  offset: 0, 0
+  index: -1
+xiaobiR
+  rotate: true
+  xy: 782, 1676
+  size: 69, 99
+  orig: 69, 99
+  offset: 0, 0
+  index: -1
+xiuziB
+  rotate: false
+  xy: 1788, 1473
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+xiuziR
+  rotate: true
+  xy: 576, 1372
+  size: 167, 169
+  orig: 167, 169
+  offset: 0, 0
+  index: -1
+xuedai
+  rotate: true
+  xy: 171, 1400
+  size: 155, 403
+  orig: 155, 403
+  offset: 0, 0
+  index: -1
+
+1400451_spine_idle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangkuai4
+  rotate: true
+  xy: 725, 2
+  size: 1022, 658
+  orig: 1022, 658
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 1026
+  size: 826, 903
+  orig: 826, 903
+  offset: 0, 0
+  index: -1
+weitao1
+  rotate: false
+  xy: 2, 40
+  size: 721, 984
+  orig: 721, 984
+  offset: 0, 0
+  index: -1

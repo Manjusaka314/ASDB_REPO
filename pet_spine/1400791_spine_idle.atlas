@@ -1,0 +1,565 @@
+
+1400791_spine_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1
+  rotate: true
+  xy: 1773, 1422
+  size: 65, 145
+  orig: 71, 145
+  offset: 6, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 784, 1501
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 692, 1504
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: true
+  xy: 1451, 1491
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: true
+  xy: 2, 1148
+  size: 127, 189
+  orig: 131, 192
+  offset: 0, 3
+  index: -1
+1_6
+  rotate: true
+  xy: 586, 1360
+  size: 84, 220
+  orig: 84, 220
+  offset: 0, 0
+  index: -1
+Story_confused
+  rotate: false
+  xy: 1884, 1114
+  size: 145, 199
+  orig: 145, 199
+  offset: 0, 0
+  index: -1
+Story_sad
+  rotate: true
+  xy: 1234, 1067
+  size: 145, 199
+  orig: 145, 199
+  offset: 0, 0
+  index: -1
+Story_serious
+  rotate: true
+  xy: 1435, 1054
+  size: 145, 199
+  orig: 145, 199
+  offset: 0, 0
+  index: -1
+Story_surprise
+  rotate: true
+  xy: 1636, 1044
+  size: 145, 199
+  orig: 145, 199
+  offset: 0, 0
+  index: -1
+Story_think
+  rotate: true
+  xy: 2, 982
+  size: 145, 199
+  orig: 145, 199
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 98, 1463
+  size: 118, 46
+  orig: 118, 46
+  offset: 0, 0
+  index: -1
+tianping_1
+  rotate: true
+  xy: 1774, 1490
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+tianping_10
+  rotate: true
+  xy: 733, 1504
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+tianping_10_1
+  rotate: true
+  xy: 829, 1501
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+tianping_11
+  rotate: true
+  xy: 110, 1511
+  size: 23, 76
+  orig: 23, 83
+  offset: 0, 0
+  index: -1
+tianping_12
+  rotate: true
+  xy: 1347, 1492
+  size: 42, 102
+  orig: 42, 102
+  offset: 0, 0
+  index: -1
+tianping_13
+  rotate: true
+  xy: 2, 1512
+  size: 22, 106
+  orig: 24, 107
+  offset: 2, 1
+  index: -1
+tianping_14
+  rotate: true
+  xy: 1207, 1434
+  size: 57, 119
+  orig: 62, 126
+  offset: 5, 7
+  index: -1
+tianping_15
+  rotate: true
+  xy: 1234, 1493
+  size: 41, 111
+  orig: 41, 111
+  offset: 0, 0
+  index: -1
+tianping_16
+  rotate: true
+  xy: 1478, 1428
+  size: 61, 121
+  orig: 61, 123
+  offset: 0, 2
+  index: -1
+tianping_17
+  rotate: true
+  xy: 283, 1458
+  size: 48, 100
+  orig: 48, 100
+  offset: 0, 0
+  index: -1
+tianping_18
+  rotate: true
+  xy: 1920, 1414
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+tianping_19
+  rotate: true
+  xy: 100, 1386
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+tianping_2
+  rotate: true
+  xy: 920, 1495
+  size: 39, 240
+  orig: 39, 250
+  offset: 0, 10
+  index: -1
+tianping_20
+  rotate: true
+  xy: 1601, 1428
+  size: 61, 170
+  orig: 61, 170
+  offset: 0, 0
+  index: -1
+tianping_21
+  rotate: true
+  xy: 198, 1379
+  size: 77, 159
+  orig: 77, 159
+  offset: 0, 0
+  index: -1
+tianping_22
+  rotate: true
+  xy: 2, 1284
+  size: 100, 168
+  orig: 100, 175
+  offset: 0, 7
+  index: -1
+tianping_23
+  rotate: true
+  xy: 248, 1510
+  size: 24, 78
+  orig: 24, 78
+  offset: 0, 0
+  index: -1
+tianping_24
+  rotate: false
+  xy: 1908, 1315
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+tianping_25
+  rotate: true
+  xy: 218, 1462
+  size: 46, 63
+  orig: 49, 63
+  offset: 3, 0
+  index: -1
+tianping_26
+  rotate: false
+  xy: 964, 1339
+  size: 139, 96
+  orig: 139, 96
+  offset: 0, 0
+  index: -1
+tianping_26_1
+  rotate: true
+  xy: 2, 1388
+  size: 73, 96
+  orig: 88, 96
+  offset: 10, 0
+  index: -1
+tianping_27
+  rotate: false
+  xy: 1660, 1491
+  size: 112, 43
+  orig: 112, 43
+  offset: 0, 0
+  index: -1
+tianping_28
+  rotate: true
+  xy: 203, 982
+  size: 145, 199
+  orig: 145, 199
+  offset: 0, 0
+  index: -1
+tianping_29
+  rotate: true
+  xy: 528, 1506
+  size: 28, 55
+  orig: 30, 56
+  offset: 0, 1
+  index: -1
+tianping_3
+  rotate: false
+  xy: 808, 1346
+  size: 154, 90
+  orig: 166, 90
+  offset: 12, 0
+  index: -1
+tianping_30
+  rotate: true
+  xy: 188, 1511
+  size: 23, 58
+  orig: 23, 58
+  offset: 0, 0
+  index: -1
+tianping_31
+  rotate: true
+  xy: 1944, 1489
+  size: 45, 97
+  orig: 46, 97
+  offset: 0, 0
+  index: -1
+tianping_32
+  rotate: true
+  xy: 310, 1274
+  size: 102, 168
+  orig: 102, 168
+  offset: 0, 0
+  index: -1
+tianping_33
+  rotate: false
+  xy: 816, 1438
+  size: 150, 55
+  orig: 150, 55
+  offset: 0, 0
+  index: -1
+tianping_34
+  rotate: true
+  xy: 2, 1465
+  size: 45, 94
+  orig: 45, 94
+  offset: 0, 0
+  index: -1
+tianping_35
+  rotate: true
+  xy: 359, 1378
+  size: 75, 225
+  orig: 75, 225
+  offset: 0, 0
+  index: -1
+tianping_36
+  rotate: false
+  xy: 404, 966
+  size: 452, 134
+  orig: 452, 134
+  offset: 0, 0
+  index: -1
+tianping_37
+  rotate: true
+  xy: 1328, 1430
+  size: 59, 148
+  orig: 59, 148
+  offset: 0, 0
+  index: -1
+tianping_38
+  rotate: true
+  xy: 2, 341
+  size: 370, 493
+  orig: 370, 507
+  offset: 0, 0
+  index: -1
+tianping_39
+  rotate: false
+  xy: 480, 1261
+  size: 104, 115
+  orig: 104, 115
+  offset: 0, 0
+  index: -1
+tianping_4
+  rotate: true
+  xy: 586, 1240
+  size: 118, 135
+  orig: 128, 149
+  offset: 10, 0
+  index: -1
+tianping_40
+  rotate: true
+  xy: 1162, 1495
+  size: 39, 70
+  orig: 39, 70
+  offset: 0, 0
+  index: -1
+tianping_41
+  rotate: false
+  xy: 660, 1446
+  size: 154, 53
+  orig: 154, 53
+  offset: 0, 0
+  index: -1
+tianping_42
+  rotate: true
+  xy: 316, 713
+  size: 251, 485
+  orig: 251, 485
+  offset: 0, 0
+  index: -1
+tianping_43
+  rotate: true
+  xy: 1335, 1214
+  size: 121, 236
+  orig: 121, 236
+  offset: 0, 0
+  index: -1
+tianping_44
+  rotate: true
+  xy: 1687, 1324
+  size: 96, 219
+  orig: 96, 219
+  offset: 0, 0
+  index: -1
+tianping_45
+  rotate: true
+  xy: 428, 1102
+  size: 125, 514
+  orig: 125, 514
+  offset: 0, 0
+  index: -1
+tianping_46
+  rotate: true
+  xy: 944, 1085
+  size: 142, 288
+  orig: 142, 288
+  offset: 0, 0
+  index: -1
+tianping_47
+  rotate: true
+  xy: 2, 721
+  size: 259, 312
+  orig: 259, 312
+  offset: 0, 0
+  index: -1
+tianping_48
+  rotate: true
+  xy: 870, 1498
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+tianping_49
+  rotate: true
+  xy: 1573, 1201
+  size: 121, 143
+  orig: 121, 143
+  offset: 0, 0
+  index: -1
+tianping_5
+  rotate: true
+  xy: 1525, 1491
+  size: 43, 133
+  orig: 43, 148
+  offset: 0, 0
+  index: -1
+tianping_50
+  rotate: true
+  xy: 1129, 1435
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+tianping_52
+  rotate: true
+  xy: 385, 1455
+  size: 48, 273
+  orig: 48, 274
+  offset: 0, 1
+  index: -1
+tianping_53
+  rotate: false
+  xy: 1718, 1191
+  size: 164, 131
+  orig: 164, 163
+  offset: 0, 0
+  index: -1
+tianping_54
+  rotate: true
+  xy: 1214, 861
+  size: 191, 330
+  orig: 191, 330
+  offset: 0, 0
+  index: -1
+tianping_55
+  rotate: true
+  xy: 1546, 798
+  size: 244, 334
+  orig: 275, 363
+  offset: 31, 29
+  index: -1
+tianping_56
+  rotate: false
+  xy: 858, 929
+  size: 354, 154
+  orig: 354, 154
+  offset: 0, 0
+  index: -1
+tianping_58
+  rotate: false
+  xy: 803, 540
+  size: 901, 256
+  orig: 901, 256
+  offset: 0, 0
+  index: -1
+tianping_59
+  rotate: true
+  xy: 172, 1277
+  size: 100, 136
+  orig: 100, 136
+  offset: 0, 0
+  index: -1
+tianping_6
+  rotate: true
+  xy: 328, 1508
+  size: 26, 198
+  orig: 26, 212
+  offset: 0, 0
+  index: -1
+tianping_60
+  rotate: false
+  xy: 193, 1129
+  size: 233, 143
+  orig: 238, 145
+  offset: 5, 2
+  index: -1
+tianping_61
+  rotate: true
+  xy: 497, 119
+  size: 419, 488
+  orig: 491, 488
+  offset: 62, 0
+  index: -1
+tianping_62
+  rotate: false
+  xy: 1567, 2
+  size: 466, 536
+  orig: 488, 536
+  offset: 0, 0
+  index: -1
+tianping_63
+  rotate: true
+  xy: 987, 98
+  size: 440, 578
+  orig: 440, 578
+  offset: 0, 0
+  index: -1
+tianping_64
+  rotate: true
+  xy: 723, 1229
+  size: 106, 610
+  orig: 106, 610
+  offset: 0, 0
+  index: -1
+tianping_65
+  rotate: true
+  xy: 1105, 1337
+  size: 89, 580
+  orig: 89, 580
+  offset: 0, 0
+  index: -1
+tianping_8
+  rotate: true
+  xy: 968, 1437
+  size: 56, 159
+  orig: 63, 159
+  offset: 0, 0
+  index: -1
+tianping_9
+  rotate: true
+  xy: 585, 1505
+  size: 29, 105
+  orig: 29, 105
+  offset: 0, 0
+  index: -1
+tianping_9_1
+  rotate: true
+  xy: 1845, 1489
+  size: 45, 97
+  orig: 45, 97
+  offset: 0, 0
+  index: -1
+
+1400791_spine_idle2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tianping_57
+  rotate: false
+  xy: 2, 2
+  size: 892, 630
+  orig: 892, 876
+  offset: 0, 0
+  index: -1
+tianping_7
+  rotate: true
+  xy: 2, 634
+  size: 610, 1753
+  orig: 610, 1753
+  offset: 0, 0
+  index: -1

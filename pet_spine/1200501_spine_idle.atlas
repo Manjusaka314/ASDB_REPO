@@ -1,0 +1,132 @@
+
+1200501_spine_idle.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag
+  rotate: true
+  xy: 1367, 460
+  size: 130, 227
+  orig: 130, 227
+  offset: 0, 0
+  index: -1
+Bagline
+  rotate: true
+  xy: 942, 2
+  size: 109, 307
+  orig: 110, 307
+  offset: 1, 0
+  index: -1
+Body
+  rotate: true
+  xy: 922, 441
+  size: 290, 443
+  orig: 327, 443
+  offset: 6, 0
+  index: -1
+Body_back
+  rotate: true
+  xy: 715, 42
+  size: 283, 225
+  orig: 283, 225
+  offset: 0, 0
+  index: -1
+Body_up
+  rotate: false
+  xy: 1367, 592
+  size: 132, 248
+  orig: 139, 260
+  offset: 7, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1501, 624
+  size: 115, 216
+  orig: 117, 221
+  offset: 0, 5
+  index: -1
+L_arm
+  rotate: true
+  xy: 2, 47
+  size: 237, 474
+  orig: 246, 477
+  offset: 2, 2
+  index: -1
+L_leg
+  rotate: false
+  xy: 2, 286
+  size: 348, 735
+  orig: 348, 735
+  offset: 0, 0
+  index: -1
+L_weapon
+  rotate: true
+  xy: 352, 327
+  size: 96, 939
+  orig: 114, 959
+  offset: 1, 7
+  index: -1
+L_weapon_1
+  rotate: false
+  xy: 478, 30
+  size: 235, 295
+  orig: 236, 295
+  offset: 0, 0
+  index: -1
+L_weapon_2
+  rotate: false
+  xy: 1093, 777
+  size: 53, 63
+  orig: 53, 64
+  offset: 0, 1
+  index: -1
+R_arm
+  rotate: false
+  xy: 942, 113
+  size: 170, 212
+  orig: 170, 212
+  offset: 0, 0
+  index: -1
+R_arm_1
+  rotate: true
+  xy: 1114, 202
+  size: 123, 151
+  orig: 123, 167
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 1093, 842
+  size: 179, 562
+  orig: 179, 562
+  offset: 0, 0
+  index: -1
+R_weapon
+  rotate: false
+  xy: 352, 733
+  size: 739, 288
+  orig: 739, 288
+  offset: 0, 0
+  index: -1
+R_weapon_1
+  rotate: true
+  xy: 1293, 100
+  size: 339, 284
+  orig: 341, 284
+  offset: 0, 0
+  index: -1
+R_weapon_2
+  rotate: false
+  xy: 2, 7
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+Tell
+  rotate: true
+  xy: 352, 425
+  size: 306, 568
+  orig: 306, 568
+  offset: 0, 0
+  index: -1
