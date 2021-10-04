@@ -16,6 +16,18 @@
   <meta property="og:url" content="https://asdb.kengxxiao.com" />
   <meta property="og:site_name" content="Alchemy Stars Database" />
   <meta property="og:description" content="A non-profit tool website made by game players of 'Alchemy Stars'" />
+  <script>
+  (function(l) {
+        if (l.search[1] === '/' ) {
+          var decoded = l.search.slice(1).split('&').map(function(s) { 
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+  </script>
 
   <link rel="icon" href="/favicon.ico" />
   
@@ -60,12 +72,6 @@
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
   <script src="https://unpkg.com/@popperjs/core@2"></script>
   <script src="https://unpkg.com/tippy.js@6"></script>
-  
-  <!-- <audio src="/main_ui/M_juwai_denglu.wav" autoplay="autoplay" loop="loop" preload="auto" style="margin-top: 60px;" id="bg"></audio>
-    <script>
-      const audio = document.getElementById("bg");
-      audio.volume = 0.1;
-    </script> -->
 </body>
 
 </html>
