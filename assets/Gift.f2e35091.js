@@ -1,0 +1,1 @@
+import{o as t,c as e,t as i}from"./index.5ea3d074.js";import"./@pixi.ba7a7c6f.js";const a={inject:["socket"],data:()=>({gifts:void 0}),mounted(){const t=localStorage.getItem("game_lang");let e=this;this.socket.emit("get_all_gift",[t],(function(t){e.gifts=t}))}};a.render=function(a,o,n,s,c,f){return t(),e("h1",null,i(a.$t("main_view.gift_data")),1)};export default a;
